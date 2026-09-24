@@ -1,0 +1,10 @@
+{
+  "rows": 2,
+  "cols": 8,
+  "decay_every": 8,
+  "threshold": 3,
+  "overestimate_invariant": true,
+  "probe_keys": ["a", "b", "c"],
+  "stream": ["a", "b", "a", "a", "c", "b", "a", "b", "a", "c"],
+  "more_stream": ["a", "c"]
+}
